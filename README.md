@@ -1,2 +1,2 @@
 # fliperama-uninassau
-Projeto Fliperama Uninassau
+Repositório do Projeto Fliperama da UNINASSAU - 2017.01 
